@@ -1,4 +1,3 @@
-![logo](https://www.canva.com/design/DAFtjgnP3NY/9A7tpc_vqhBfIiePeNTz8w/edit)
 <h1 align="center">Hi 👋, I'm Pradnya Rajmane</h1>
 <h3 align="center">A passionate Data analyst from India</h3>
 <img align="right"alt="Data analyst"width="400"src="https://th.bing.com/th?id=OIP._HFjXH8bCe0wQT9Zu3SVggHaFj&w=210&h=157&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2">
